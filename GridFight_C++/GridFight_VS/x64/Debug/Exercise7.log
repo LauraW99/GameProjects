@@ -1,0 +1,3 @@
+﻿  Enemy.cpp
+C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\src\Enemy.cpp(59): warning C4715: "Enemy::GenerateRandomEnemyType": Nicht alle Codepfade geben einen Wert zurück.
+  Exercise7.vcxproj -> C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\x64\Debug\Exercise7.exe

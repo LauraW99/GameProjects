@@ -1,0 +1,33 @@
+﻿  Main.cpp
+  Ability.cpp
+  Backstab.cpp
+  Claw.cpp
+  Fireball.cpp
+  Howl.cpp
+  Rejuvenate.cpp
+  Meteorstrike.cpp
+  Rumble.cpp
+  Smash.cpp
+  Character.cpp
+  Crawler.cpp
+  Exile.cpp
+  FoF.cpp
+  Monolith.cpp
+  Yeti.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\src\Game.cpp(196,92): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Cell.cpp
+  Grid.cpp
+C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\src\Math\Grid.cpp(95,39): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\src\Math\Grid.cpp(95,82): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Kompilieren...
+  Int2.cpp
+  Player.cpp
+  Random.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\src\Enemy.cpp(59): warning C4715: "Enemy::GenerateRandomEnemyType": Nicht alle Codepfade geben einen Wert zurück.
+  All 452 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Exercise7.vcxproj -> C:\Users\Laura Wagner\OneDrive\Dokumente\Medieninformatik\Semester 4\Cpp\Exercise7\x64\Release\Exercise7.exe
