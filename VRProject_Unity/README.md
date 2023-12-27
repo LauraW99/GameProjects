@@ -2,13 +2,11 @@
 
 ## Voraussetzungen:
 
-- für das Verwenden des Teslasuit PlugIns für Unity benötigt man die SDK und das Control Center von der Teslasuit Website
-- außerdem muss der Anzug verbunden sein, sonst werden vom PlugIn Fehler geworfen
-
+- leider muss ein Teslasuit verbunden sein, um den Prototyp zu spielen, ansonsten werden vom Teslasuit-PlugIn Fehler geworfen
+- für das Verwenden des Teslasuit-PlugIns für Unity benötigt man die SDK und das Control Center von der Teslasuit Website
 
 ## Bewegung:
 - Kontinuierliche Bewegung mit dem linken VR-Controller, kontinuierliches Drehen mit dem rechten
-
 
 ## Ziel:
 - Besiegen der Geister durch Abschießen mit Blitzen
